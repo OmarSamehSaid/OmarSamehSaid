@@ -2,7 +2,7 @@
 ## About
 - Machine learning engineer with **SOLID** Software background 
 - Graduated From Faculty of Computer Science and Artificial Intelligence Helwan University
-- Master's Student At Queen's University In Canda
+- Master's Student At Queen's University In Canada
 
 ## Connect with Me
 
